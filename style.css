@@ -1,0 +1,10 @@
+.gif {
+    padding: 16px;
+    border-radius: 5px;
+    position: relative;
+
+}
+
+#loadButton {
+    display: none;
+}
